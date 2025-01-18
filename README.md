@@ -44,8 +44,8 @@ Expense Tracker to aplikacja mobilna do zarządzania wydatkami. Umożliwia użyt
 
 1. **Klonuj repozytorium**:
    ```bash
-   git clone <URL-repozytorium>
-   cd expense-tracker
+   git clone https://github.com/Jassie0301/expense_tracker
+   cd expense_tracker
    ```
 
 2. **Zainstaluj zależności**:
